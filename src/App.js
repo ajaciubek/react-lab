@@ -23,7 +23,7 @@ function App() {
 
   let message;
   if (title.length < 5) {
-      message = "Tutuł jest za krótki. Nagrywają takie filmy?";
+      message = "Tutuł jest za krótki !!";
   } else if (title.length < 15) {
       message = "Tytuł jest ekstra, w sam raz na plakat przed kinem!";
   } 
